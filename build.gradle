@@ -41,7 +41,7 @@ android {
     sourceSets {
         main {
             manifest.srcFile "AndroidManifest.xml"
-            java.srcDirs = ["src"]
+            java.srcDirs = ["src","./modules/crcalc/src"]
             res.srcDirs = ["res"]
         }
     }

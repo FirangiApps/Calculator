@@ -1,0 +1,3 @@
+[submodule "modules/crcalc"]
+	path = modules/crcalc
+	url = https://github.com/OzoneApps/crcalc
